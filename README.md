@@ -3,6 +3,9 @@
 REST API for **Laboratory Exercise No. 6** - built with the LavaLust framework, JWT authentication
 and an Aiven MySQL database.
 
+Opening the deployed API base URL returns a JSON health response with the API name,
+running status, version, and endpoint list.
+
 ## Endpoints
 
 | Method | URL | Auth | Description |
